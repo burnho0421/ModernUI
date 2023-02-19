@@ -363,9 +363,9 @@
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(342, 211);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(210, 40);
+            this.label1.Size = new System.Drawing.Size(234, 40);
             this.label1.TabIndex = 5;
-            this.label1.Text = "Welcome!";
+            this.label1.Text = "Welcome2!";
             // 
             // Form1
             // 
